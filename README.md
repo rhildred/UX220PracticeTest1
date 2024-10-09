@@ -1,6 +1,6 @@
-# UX2202023PracticeTest1
+# UX220PracticeTest1
 html practice test
 
-html lab
+TLDR;
 
-[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/rhildred/UX2202023PracticeTest1)
+Use this as a template to answer the questions in the files
